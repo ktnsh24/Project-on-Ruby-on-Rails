@@ -1,0 +1,88 @@
+id,date,connection,country,platform,app,impressions,ad_revenue,created_at,updated_at
+8432,2020-01-01,Mock Connection - vungle.com,Germany,Android,Pong,6195,28,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8442,2020-01-01,Mock Connection - chartboost.com,Canada,Android,Pong,1485,4,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8460,2020-01-01,Mock Connection - inmobi.com,Canada,Android,Pong,2289,4,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8469,2020-01-01,Mock Connection - applovin.com,Brazil,Android,Pong,1904,9,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8484,2020-01-01,Mock Connection - chartboost.com,Japan,Android,Pong,1662,1,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8492,2020-01-01,Mock Connection - adcolony.com,Japan,Android,Pong,1288,6,2020-11-05 09:20:50 UTC,2020-11-05 09:20:50 UTC
+8501,2020-01-01,Mock Connection - mopub.com,Canada,Android,Pong,1675,7,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8504,2020-01-01,Mock Connection - inmobi.com,Germany,Android,Pong,6005,32,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8527,2020-01-01,Mock Connection - facebook.com,United States,Android,Pong,316,5,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8534,2020-01-01,Mock Connection - chartboost.com,Denmark,Android,Pong,4028,16,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8574,2020-01-01,Mock Connection - adcolony.com,Germany,Android,Pong,815,2,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8579,2020-01-01,Mock Connection - flurry.com,Canada,Android,Pong,3396,23,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8616,2020-01-01,Mock Connection - flurry.com,United States,Android,Pong,587,18,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8628,2020-01-01,Mock Connection - flurry.com,Brazil,Android,Pong,731,10,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8630,2020-01-01,Mock Connection - adcolony.com,Canada,Android,Pong,1872,8,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8642,2020-01-01,Mock Connection - vungle.com,Brazil,Android,Pong,3618,27,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8663,2020-01-01,Mock Connection - adcolony.com,United States,Android,Pong,758,2,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8664,2020-01-01,Mock Connection - mopub.com,Japan,Android,Pong,5979,18,2020-11-05 09:20:51 UTC,2020-11-05 09:20:51 UTC
+8672,2020-01-01,Mock Connection - vungle.com,Japan,Android,Pong,2862,15,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8697,2020-01-01,Mock Connection - inmobi.com,Denmark,Android,Pong,666,6,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8701,2020-01-01,Mock Connection - chartboost.com,United States,Android,Pong,464,5,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8703,2020-01-01,Mock Connection - mopub.com,Germany,Android,Pong,4387,23,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8707,2020-01-01,Mock Connection - applovin.com,United States,Android,Pong,3697,21,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8724,2020-01-01,Mock Connection - adcolony.com,Brazil,Android,Pong,2089,7,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8749,2020-01-01,Mock Connection - adcolony.com,Denmark,Android,Pong,1146,1,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8753,2020-01-01,Mock Connection - facebook.com,Japan,Android,Pong,2236,17,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8776,2020-01-01,Mock Connection - mopub.com,Denmark,Android,Pong,1335,1,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8802,2020-01-01,Mock Connection - inmobi.com,Brazil,Android,Pong,4837,18,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8810,2020-01-01,Mock Connection - facebook.com,Brazil,Android,Pong,1156,11,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8817,2020-01-01,Mock Connection - applovin.com,Canada,Android,Pong,1131,15,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8822,2020-01-01,Mock Connection - flurry.com,Japan,Android,Pong,2058,20,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8829,2020-01-01,Mock Connection - flurry.com,Denmark,Android,Pong,1593,4,2020-11-05 09:20:52 UTC,2020-11-05 09:20:52 UTC
+8841,2020-01-01,Mock Connection - flurry.com,Germany,Android,Pong,3434,30,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8845,2020-01-01,Mock Connection - vungle.com,Denmark,Android,Pong,2942,41,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8847,2020-01-01,Mock Connection - vungle.com,United States,Android,Pong,3584,19,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8863,2020-01-01,Mock Connection - inmobi.com,United States,Android,Pong,1910,25,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8869,2020-01-01,Mock Connection - mopub.com,Brazil,Android,Pong,1474,14,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8874,2020-01-01,Mock Connection - chartboost.com,Brazil,Android,Pong,695,3,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8902,2020-01-01,Mock Connection - applovin.com,Germany,Android,Pong,3339,9,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8903,2020-01-01,Mock Connection - inmobi.com,Japan,Android,Pong,3384,49,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8905,2020-01-01,Mock Connection - chartboost.com,Germany,Android,Pong,892,2,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8909,2020-01-01,Mock Connection - vungle.com,Canada,Android,Pong,2074,4,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8912,2020-01-01,Mock Connection - applovin.com,Denmark,Android,Pong,2236,10,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8915,2020-01-01,Mock Connection - facebook.com,Canada,Android,Pong,1311,19,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8917,2020-01-01,Mock Connection - mopub.com,United States,Android,Pong,744,26,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8930,2020-01-02,Mock Connection - applovin.com,Canada,Android,Pong,4710,51,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8952,2020-01-02,Mock Connection - vungle.com,Japan,Android,Pong,3273,49,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8957,2020-01-02,Mock Connection - inmobi.com,United States,Android,Pong,2351,25,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8974,2020-01-02,Mock Connection - mopub.com,Denmark,Android,Pong,2891,2,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8984,2020-01-02,Mock Connection - flurry.com,Japan,Android,Pong,1321,6,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+8997,2020-01-02,Mock Connection - applovin.com,United States,Android,Pong,2212,22,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+9000,2020-01-02,Mock Connection - vungle.com,Denmark,Android,Pong,1496,22,2020-11-05 09:20:53 UTC,2020-11-05 09:20:53 UTC
+9012,2020-01-02,Mock Connection - inmobi.com,Brazil,Android,Pong,4369,8,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9041,2020-01-02,Mock Connection - adcolony.com,Canada,Android,Pong,4829,13,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9076,2020-01-02,Mock Connection - vungle.com,Canada,Android,Pong,4116,9,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9077,2020-01-02,Mock Connection - adcolony.com,Denmark,Android,Pong,1936,7,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9098,2020-01-02,Mock Connection - flurry.com,Denmark,Android,Pong,5670,17,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9111,2020-01-02,Mock Connection - facebook.com,Canada,Android,Pong,2427,4,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9132,2020-01-02,Mock Connection - facebook.com,Japan,Android,Pong,359,8,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9134,2020-01-02,Mock Connection - mopub.com,Germany,Android,Pong,7362,23,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9153,2020-01-02,Mock Connection - chartboost.com,Germany,Android,Pong,1212,6,2020-11-05 09:20:54 UTC,2020-11-05 09:20:54 UTC
+9185,2020-01-02,Mock Connection - flurry.com,Brazil,Android,Pong,703,9,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9202,2020-01-02,Mock Connection - mopub.com,Brazil,Android,Pong,1452,3,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9210,2020-01-02,Mock Connection - inmobi.com,Canada,Android,Pong,4368,24,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9227,2020-01-02,Mock Connection - applovin.com,Brazil,Android,Pong,738,21,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9230,2020-01-02,Mock Connection - mopub.com,Japan,Android,Pong,659,4,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9237,2020-01-02,Mock Connection - chartboost.com,Canada,Android,Pong,1560,22,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9274,2020-01-02,Mock Connection - vungle.com,Germany,Android,Pong,782,8,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9281,2020-01-02,Mock Connection - vungle.com,Brazil,Android,Pong,1675,9,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9289,2020-01-02,Mock Connection - facebook.com,Denmark,Android,Pong,239,1,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9292,2020-01-02,Mock Connection - chartboost.com,Japan,Android,Pong,5327,11,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9294,2020-01-02,Mock Connection - adcolony.com,United States,Android,Pong,987,15,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9297,2020-01-02,Mock Connection - adcolony.com,Japan,Android,Pong,920,3,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9300,2020-01-02,Mock Connection - flurry.com,Germany,Android,Pong,1187,6,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9311,2020-01-02,Mock Connection - flurry.com,Canada,Android,Pong,2845,10,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9313,2020-01-02,Mock Connection - chartboost.com,Brazil,Android,Pong,384,0,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9322,2020-01-02,Mock Connection - applovin.com,Germany,Android,Pong,3944,22,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9330,2020-01-02,Mock Connection - adcolony.com,Germany,Android,Pong,1090,7,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9331,2020-01-02,Mock Connection - vungle.com,United States,Android,Pong,7032,36,2020-11-05 09:20:55 UTC,2020-11-05 09:20:55 UTC
+9350,2020-01-02,Mock Connection - flurry.com,United States,Android,Pong,3485,13,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9375,2020-01-02,Mock Connection - inmobi.com,Germany,Android,Pong,4208,15,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9379,2020-01-02,Mock Connection - inmobi.com,Denmark,Android,Pong,3020,13,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9386,2020-01-02,Mock Connection - applovin.com,Japan,Android,Pong,1573,10,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9396,2020-01-02,Mock Connection - inmobi.com,Japan,Android,Pong,14885,46,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9400,2020-01-02,Mock Connection - applovin.com,Denmark,Android,Pong,2401,15,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9410,2020-01-02,Mock Connection - adcolony.com,Brazil,Android,Pong,268,7,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC
+9416,2020-01-02,Mock Connection - mopub.com,Canada,Android,Pong,111,0,2020-11-05 09:20:56 UTC,2020-11-05 09:20:56 UTC

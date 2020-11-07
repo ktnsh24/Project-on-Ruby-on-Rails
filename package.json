@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@rails/webpacker": "5.2.1",
+    "bootstrap": "^4.5.3",
+    "datatables.net-bs4": "^1.10.22",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}

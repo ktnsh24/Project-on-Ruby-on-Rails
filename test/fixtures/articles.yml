@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  connection: MyString
+  app: MyString
+  platform: MyString
+  country: MyString
+  impression: 1
+  ad_revenue: 1
+
+two:
+  date: MyString
+  connection: MyString
+  app: MyString
+  platform: MyString
+  country: MyString
+  impression: 1
+  ad_revenue: 1
